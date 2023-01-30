@@ -1,16 +1,21 @@
-# untitled2
+# App pour calcule de calorie
 
-A new Flutter project.
+Projet fait avec Dart/Flutter.
 
-## Getting Started
+## A propos de l'application
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/56379367/215613445-46a0365d-8d55-418d-a1ce-e2a618246674.png)
+![image](https://user-images.githubusercontent.com/56379367/215613861-de0f4b87-cf56-40d4-a9ce-91b184ed42cd.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+C'est une simple application permettant de calculer les calories necessaires à une personne en fonction de son âge , son sex et la frequence de ses activités sportives.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Outil(s)
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge"/>
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=Dart&logoColor=white" alt="Flutter Badge"/>
+  </a>
+</div>
